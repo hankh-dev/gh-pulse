@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# 테스트가 프로젝트 루트의 모듈(collect, api, db)을 import할 수 있도록 한다
+pythonpath = ["."]
+testpaths = ["tests"]
