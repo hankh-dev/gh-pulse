@@ -1,0 +1,8 @@
+requests
+pandas
+fastapi
+uvicorn
+
+# 테스트용
+pytest
+httpx

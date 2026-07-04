@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(python3 -m venv venv)",
+      "Bash(./venv/bin/pip install *)",
+      "Bash(/private/tmp/claude-501/-Users-dev-github-hankh-dev-test1/12131036-5fec-4f74-865c-3fd2a8b14e52/scratchpad/venv/bin/python -m pytest /Users/dev/github/hankh-dev/test1/tests -q)",
+      "Bash(/private/tmp/claude-501/-Users-dev-github-hankh-dev-test1/12131036-5fec-4f74-865c-3fd2a8b14e52/scratchpad/venv/bin/python collect.py)",
+      "Bash(/private/tmp/claude-501/-Users-dev-github-hankh-dev-test1/12131036-5fec-4f74-865c-3fd2a8b14e52/scratchpad/venv/bin/python -c ' *)",
+      "Bash(/private/tmp/claude-501/-Users-dev-github-hankh-dev-test1/12131036-5fec-4f74-865c-3fd2a8b14e52/scratchpad/venv/bin/python *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'gh-pulse: GitHub 레포 지표 수집 파이프라인 *)"
+    ]
+  }
+}
