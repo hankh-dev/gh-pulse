@@ -5,3 +5,9 @@ pandas-dev/pandas
 apache/airflow
 langchain-ai/langchain
 microsoft/vscode
+nestjs/nest
+pytorch/pytorch
+facebook/react
+vuejs/vue
+vercel/next.js
+kubernetes/kubernetes
